@@ -74,7 +74,7 @@ execute 'hi Tag          cterm=none guifg=' . g:col_magenta
 execute 'hi Debug        cterm=none guifg=' . g:col_magenta
 execute 'hi Delimiter    cterm=none guifg=' . g:col_magenta
 execute 'hi SpellBad     guifg=Normal guibg=Normal'
-execute 'hi MatchParens  guibg=none guifg=' . g:col_blue
+execute 'hi MatchParen   guibg=none guifg=' . g:col_blue
 
 execute 'hi StatusLine    cterm=none ctermbg=none ctermfg=none guibg=none guifg=' . g:col_cyan
 execute 'hi StatusLineNC  cterm=none ctermbg=none ctermfg=none guibg=none guifg=' . g:col_cyan
